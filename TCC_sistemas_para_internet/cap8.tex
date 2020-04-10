@@ -1,0 +1,280 @@
+\chapter{Implementação }
+% ---
+%Neste capitulo visara mostrar os métodos e procedimentos utilizados para implementação da solução do problema evidenciado nos capítulos anteriores .
+Neste capítulo será aplicado as técnicas, métodos e procedimentos utilizados para implementação da solução dos problemas evidenciados nos capítulos anteriores.
+% ---
+\subsection{Códigos da Implementação}
+Nesta parte do código acontece a validação de login do usuário, onde o mesmo se encarrega e enviar os dados informados direto para a API valida-los.
+\begin{figure}[H]
+	\caption{\label{LoginCodigo}Tela com a implementação do Login da \textit{Smart Solution}}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.50]{Figuras/LoginCodigo}}\qquad
+		
+	}
+	
+	
+\end{figure}
+\newpage
+Após os dados do usuário serem enviados do APP para a API, neste arquivo a requisição é recebida e enviada para a classe que cuidará das validações.
+\begin{figure}[H]
+	\caption{\label{Rotalogin}Tela de implementação da rota de Login da\textit{Smart Solution}}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.50]{Figuras/Rotalogin}}\qquad
+		
+	}
+	
+	
+\end{figure}
+\newpage
+Chegando na classe de validação, os dados que foram enviados da tela de login são validados, se existe algo na requisição, se os dados enviados existem, caso alguma dessas validações venha a ter erros, API rejeita os dados enviados mandando uma mensagem de erro de volta para o usuário. 
+
+\begin{figure}[H]
+	\caption{\label{Validacaologin}Tela com a implementação da validação dos dados de Login da\textit{Smart Solution}}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.50]{Figuras/Validacaologin}}\qquad
+		
+	}
+	
+	
+\end{figure}
+\newpage
+Por fim, depois de os dados terem sido validados, o mesmo será enviado para a classe que é responsável por se comunicar com o banco de dados, buscando esse usuário no banco de dados, casa a busca retorne um erro é porque esse usuário não existe no banco de dados, caso contrário, o sistema retornará a requisição com o status de sucesso, permitindo assim a entrada do usuário no sistema.
+\begin{figure}[H]
+	\caption{\label{DaoLogin}Tela da implementação com a comunicação para o banco de dados da\textit{Smart Solution}}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.50]{Figuras/DaoLogin}}\qquad
+		
+	}
+	
+	
+\end{figure}
+
+\section{Desenvolvimento da Aplicação Cliente}
+% ---
+Na aplicação Mobile foi usado a tecnologia Ionic no qual será usado para desenvolver a versão mobile do \textit{Smart Solution}, por ser uma plataforma de desenvolvimento híbrido, possibilitará ser usado tanto no ambiente Android quanto no IOS. Já a aplicação Web será desenvolvida nos próximos semestres e será usado a tecnologia angular por ser semelhante ao Ionic e confiável no desenvolvimento.
+% ---
+
+\section{Desenvolvimento da Aplicação Server}
+% ---
+Para desenvolver a aplicação server, que é responsável pelos endpoints e comunicação com o banco de dados foi utilizado o superconjunto Node.Js, pois essa linguagem facilitará todas as requisições a serem realizadas com dinamismo e agilidade.
+% ---
+\section{Framework para Conexão Restful}
+% ---
+A ferramenta para conexão Rest aplicada em conjunto com o Node.Js tanto na API quanto no Client (termo utilizado para definir a versão que o usuário terá interação) possibilita que a comunicação seja feita entre o Client e API e da API para o banco de dados.
+% ---
+\section{Conexão com Banco de Dados}
+% ---
+O sistema de gerenciamento banco de dados utilizados foi o MySQL, implementado inicialmente apenas para ambiente de desenvolvimento e teste, permitindo que as vertentes do projeto sejam exploradas de forma livre.
+% ---
+\newpage
+\section{Telas Desenvolvidas}
+% ----
+
+
+
+Tela que permite o usuário entrar no sistema WEB com seu numero de crachá e senha.
+
+\begin{figure}[H]
+	\caption{\label{Login_WEB_1}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de login]{\label{Login_WEB_1}%
+			\includegraphics[scale=.62,angle=90]{Figuras/Login_WEB_1}}\qquad
+		
+	}
+	
+\end{figure}
+\newpage
+
+Tela com as opções de cadastramentos disponíveis no sistema.
+
+\begin{figure}[H]
+		\caption{\label{Cadastros_Sistema_1}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de opções de cadastros]{\label{Cadastros_Sistema_1}%
+			\includegraphics[scale=.50,angle=90]{Figuras/Cadastros_Sistema_1}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela para se cadastrar ordem de serviços no conceito de  step by step no sistema de forma manual primeira etapa.
+
+\begin{figure}[H]
+		\caption{\label{step_1}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastro de OS]{\label{step_1}%
+			\includegraphics[scale=.42,angle=90]{Figuras/step_1}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela para se cadastrar ordem de serviços no conceito de  step by step no sistema de forma manual segunda etapa
+
+\begin{figure}[H]
+		\caption{\label{step_2}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastro de OS]{\label{step_2}%
+			\includegraphics[scale=.42,angle=90]{Figuras/step_2}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela para se cadastrar ordem de serviços no conceito de  step by step no sistema de forma manual terceira etapa
+
+\begin{figure}[H]
+		\caption{\label{step_3}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastro de OS]{\label{step_3}%
+			\includegraphics[scale=.42,angle=90]{Figuras/step_3}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela para cadastrar equipamentos no sistema.
+
+\begin{figure}[H]
+		\caption{\label{Cadastro_Equipamento_Sistema}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar equipamentos]{\label{Cadastro_Equipamento_Sistema}%
+			\includegraphics[scale=.62,angle=90]{Figuras/Cadastro_Equipamento_Sistema}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela para cadastrar componentes de cada maquina.
+
+\begin{figure}[H]
+		\caption{\label{Cadastro_Componentes}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar componentes]{\label{Cadastro_Componentes}%
+			\includegraphics[scale=.62,angle=90]{Figuras/Cadastro_Componentes}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela com finalidade de cadastrar EPI.
+
+\begin{figure}[H]
+		\caption{\label{Cadastro_Epi_Sistema}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar EPI]{\label{Cadastro_Epi_Sistema}%
+			\includegraphics[scale=.62,angle=90]{Figuras/Cadastro_Epi_Sistema}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela para cadastrar causas que ja ocorrerão ou novos.
+
+\begin{figure}[H]
+		\caption{\label{Cadastro_Causa_Defeito}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar causas]{\label{Cadastro_Causa_Defeito}%
+			\includegraphics[scale=.62,angle=90]{Figuras/Cadastro_Causa_Defeito}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela para cadastrar sintomas que ja ocorrerão ou novos.
+
+\begin{figure}[H]
+		\caption{\label{Cadastro_Sintomas}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar sintomas]{\label{Cadastro_Sintomas}%
+			\includegraphics[scale=.62,angle=90]{Figuras/Cadastro_Sintomas}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela para cadastrar localização do equipamento.
+
+\begin{figure}[H]
+		\caption{\label{Cadastro_Localizaçao}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar localização do equipamento]{\label{Cadastro_Localizaçao}%
+			\includegraphics[scale=.62,angle=90]{Figuras/Cadastro_Localizaçao}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+
+Tela de cadastro de centro de trabalho.
+
+\begin{figure}[H]
+		\caption{\label{Cadastro_Centro_Trabalho}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar centro de trabalho]{\label{Cadastro_Centro_Trabalho}%
+			\includegraphics[scale=.62,angle=90]{Figuras/Cadastro_Centro_Trabalho}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela para cadastrar tipo de ordem serviço.
+
+\begin{figure}[H]
+		\caption{\label{Cadastro_Tipo_Ordem}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar tipo de ordem serviço]{\label{Cadastro_Tipo_Ordem}%
+			\includegraphics[scale=.62,angle=90]{Figuras/Cadastro_Tipo_Ordem}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+
+Tela com as opções de cadastrar e listar usuários no sistema.
+
+\begin{figure}[H]
+		\caption{\label{listagem_e_cadastro_de_usuario}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar e listar usuários]{\label{listagem_e_cadastro_de_usuario}%
+			\includegraphics[scale=.47,angle=90]{Figuras/listagem_e_cadastro_de_usuario}}\qquad
+	}
+	
+\end{figure}
+\newpage
+
+Tela com as opções de consulta de ordens de serviço no sistema, podendo ser por numero da ordem ou algum dos filtros disponíveis ao usuário.
+
+\begin{figure}[H]
+		\caption{\label{Consulta_ordem}Próprio autor}
+	\centering
+	\mbox{%
+		\subfigure[Tela de cadastrar e listar usuários]{\label{Consulta_ordem}%
+			\includegraphics[scale=.45,angle=90]{Figuras/Consulta_ordem}}\qquad
+	}
+	
+\end{figure}
+\newpage
+% ------
