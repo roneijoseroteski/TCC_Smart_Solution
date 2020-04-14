@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.17)  14 APR 2020 15:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.17)  14 APR 2020 17:52
 entering extended mode
 **"./Smart Solution _v1_2020.tex"
 ("Smart Solution _v1_2020.tex"
@@ -1330,36 +1330,6 @@ Overfull \hbox (5.5788pt too wide) detected at line 80
 \T1/phv/m/n/12 Figura 8.15  -- 
  []
 
-
-Overfull \hbox (5.5788pt too wide) detected at line 81
-\T1/phv/m/n/12 Figura 8.16  -- 
- []
-
-
-Overfull \hbox (5.5788pt too wide) detected at line 82
-\T1/phv/m/n/12 Figura 8.17  -- 
- []
-
-
-Overfull \hbox (5.5788pt too wide) detected at line 83
-\T1/phv/m/n/12 Figura 8.18  -- 
- []
-
-
-Overfull \hbox (1.34494pt too wide) detected at line 83
- \T1/phv/m/n/12 100
- []
-
-
-Overfull \hbox (5.5788pt too wide) detected at line 84
-\T1/phv/m/n/12 Figura 8.19  -- 
- []
-
-
-Overfull \hbox (1.34494pt too wide) detected at line 84
- \T1/phv/m/n/12 101
- []
-
 ) [3
 
 ]) ("Smart Solution _v1_2020.toc" [4
@@ -1368,12 +1338,12 @@ Overfull \hbox (1.34494pt too wide) detected at line 84
 
 ]
 Overfull \hbox (1.34494pt too wide) detected at line 43
- \T1/phv/b/n/12 102
+ \T1/phv/b/n/12 100
  []
 
 
 Overfull \hbox (1.34494pt too wide) detected at line 44
- \T1/phv/b/n/12 103
+ \T1/phv/b/n/12 101
  []
 
 ) [5]
@@ -1422,7 +1392,7 @@ LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
  [9
 
 ]
-<Figuras/fluxo_de_processos_PMBOK.png, id=233, 840.2592pt x 1019.9706pt>
+<Figuras/fluxo_de_processos_PMBOK.png, id=224, 840.2592pt x 1019.9706pt>
 File: Figuras/fluxo_de_processos_PMBOK.png Graphic file (type png)
 <use Figuras/fluxo_de_processos_PMBOK.png>
 Package pdftex.def Info: Figuras/fluxo_de_processos_PMBOK.png  used on input li
@@ -1434,7 +1404,7 @@ Overfull \hbox (63.22745pt too wide) in paragraph at lines 90--91
  []
 
 [10] [11 <./Figuras/fluxo_de_processos_PMBOK.png>]
-<Figuras/EAP_Smart_Solution4.png, id=246, 1352.05125pt x 958.58125pt>
+<Figuras/EAP_Smart_Solution4.png, id=236, 1352.05125pt x 958.58125pt>
 File: Figuras/EAP_Smart_Solution4.png Graphic file (type png)
 <use Figuras/EAP_Smart_Solution4.png>
 Package pdftex.def Info: Figuras/EAP_Smart_Solution4.png  used on input line 10
@@ -1447,7 +1417,7 @@ ma de-ter-mi-nada or-ga-ni-za-��o.([][]ALVARENGA[][],
  []
 
 [12 <./Figuras/EAP_Smart_Solution4.png>] [13]
-<Figuras/regraSimples1.jpg, id=262, 585.68813pt x 303.38344pt>
+<Figuras/regraSimples1.jpg, id=251, 585.68813pt x 303.38344pt>
 File: Figuras/regraSimples1.jpg Graphic file (type jpg)
 <use Figuras/regraSimples1.jpg>
 Package pdftex.def Info: Figuras/regraSimples1.jpg  used on input line 168.
@@ -1457,7 +1427,7 @@ Overfull \hbox (22.53949pt too wide) in paragraph at lines 168--169
  [][] 
  []
 
-<Figuras/regraSimples2.jpg, id=263, 586.44093pt x 358.33875pt>
+<Figuras/regraSimples2.jpg, id=252, 586.44093pt x 358.33875pt>
 File: Figuras/regraSimples2.jpg Graphic file (type jpg)
 <use Figuras/regraSimples2.jpg>
 Package pdftex.def Info: Figuras/regraSimples2.jpg  used on input line 179.
@@ -1467,7 +1437,7 @@ Overfull \hbox (23.15678pt too wide) in paragraph at lines 179--180
  [][] 
  []
 
-<Figuras/regraSimples3.jpg, id=264, 585.68813pt x 298.86656pt>
+<Figuras/regraSimples3.jpg, id=253, 585.68813pt x 298.86656pt>
 File: Figuras/regraSimples3.jpg Graphic file (type jpg)
 <use Figuras/regraSimples3.jpg>
 Package pdftex.def Info: Figuras/regraSimples3.jpg  used on input line 190.
@@ -1479,7 +1449,7 @@ Overfull \hbox (22.53949pt too wide) in paragraph at lines 190--191
 
 [14 <./Figuras/regraSimples1.jpg>] [15 <./Figuras/regraSimples2.jpg> <./Figuras
 /regraSimples3.jpg>]
-<Figuras/Tabelas_riscos.jpg, id=275, 529.98pt x 435.87843pt>
+<Figuras/Tabelas_riscos.jpg, id=264, 529.98pt x 435.87843pt>
 File: Figuras/Tabelas_riscos.jpg Graphic file (type jpg)
 <use Figuras/Tabelas_riscos.jpg>
 Package pdftex.def Info: Figuras/Tabelas_riscos.jpg  used on input line 214.
@@ -1490,7 +1460,7 @@ Overfull \hbox (24.55466pt too wide) in paragraph at lines 214--215
  []
 
 [16 <./Figuras/Tabelas_riscos.jpg>]
-<Figuras/smart_solution_espinha_de_peixe.png, id=281, 924.45375pt x 355.3275pt>
+<Figuras/smart_solution_espinha_de_peixe.png, id=270, 924.45375pt x 355.3275pt>
 
 File: Figuras/smart_solution_espinha_de_peixe.png Graphic file (type png)
 <use Figuras/smart_solution_espinha_de_peixe.png>
@@ -1501,7 +1471,7 @@ nput line 236.
 \openout2 = `cap3.aux'.
 
  (cap3.tex
-<Figuras/parte1funcional.jpg, id=294, 642.90187pt x 200.24812pt>
+<Figuras/parte1funcional.jpg, id=283, 642.90187pt x 200.24812pt>
 File: Figuras/parte1funcional.jpg Graphic file (type jpg)
 <use Figuras/parte1funcional.jpg>
 Package pdftex.def Info: Figuras/parte1funcional.jpg  used on input line 25.
@@ -1511,7 +1481,7 @@ Overfull \hbox (30.87282pt too wide) in paragraph at lines 25--26
  [][] 
  []
 
-<Figuras/parte2funcional.jpg, id=295, 643.6547pt x 385.44pt>
+<Figuras/parte2funcional.jpg, id=284, 643.6547pt x 385.44pt>
 File: Figuras/parte2funcional.jpg Graphic file (type jpg)
 <use Figuras/parte2funcional.jpg>
 Package pdftex.def Info: Figuras/parte2funcional.jpg  used on input line 36.
@@ -1521,7 +1491,7 @@ Overfull \hbox (31.44496pt too wide) in paragraph at lines 36--37
  [][] 
  []
 
-<Figuras/parte3funcional.jpg, id=296, 644.4075pt x 168.63pt>
+<Figuras/parte3funcional.jpg, id=285, 644.4075pt x 168.63pt>
 File: Figuras/parte3funcional.jpg Graphic file (type jpg)
 <use Figuras/parte3funcional.jpg>
 Package pdftex.def Info: Figuras/parte3funcional.jpg  used on input line 47.
@@ -1537,7 +1507,7 @@ Overfull \hbox (32.01709pt too wide) in paragraph at lines 47--48
 
  <./Figuras/parte1funcional.jpg>] [20 <./Figuras/parte2funcional.jpg> <./Figura
 s/parte3funcional.jpg>]
-<Figuras/reqnaofuncional.jpg, id=307, 602.25pt x 373.395pt>
+<Figuras/reqnaofuncional.jpg, id=296, 602.25pt x 373.395pt>
 File: Figuras/reqnaofuncional.jpg Graphic file (type jpg)
 <use Figuras/reqnaofuncional.jpg>
 Package pdftex.def Info: Figuras/reqnaofuncional.jpg  used on input line 71.
@@ -1548,7 +1518,7 @@ Overfull \hbox (20.9037pt too wide) in paragraph at lines 71--72
  []
 
 [21 <./Figuras/reqnaofuncional.jpg>] [22]
-<./Figuras/Cronograma_marco_e_Abril.png, id=316, 819.06pt x 368.87813pt>
+<./Figuras/Cronograma_marco_e_Abril.png, id=306, 819.06pt x 368.87813pt>
 File: ./Figuras/Cronograma_marco_e_Abril.png Graphic file (type png)
 <use ./Figuras/Cronograma_marco_e_Abril.png>
 Package pdftex.def Info: ./Figuras/Cronograma_marco_e_Abril.png  used on input 
@@ -1559,7 +1529,7 @@ Overfull \vbox (0.3763pt too high) has occurred while \output is active []
 
 
 [24 <./Figuras/Cronograma_marco_e_Abril.png>]
-<./Figuras/Cronograma_maio_e_Junho.png, id=327, 822.07124pt x 304.13625pt>
+<./Figuras/Cronograma_maio_e_Junho.png, id=317, 822.07124pt x 304.13625pt>
 File: ./Figuras/Cronograma_maio_e_Junho.png Graphic file (type png)
 <use ./Figuras/Cronograma_maio_e_Junho.png>
 Package pdftex.def Info: ./Figuras/Cronograma_maio_e_Junho.png  used on input l
@@ -1582,7 +1552,7 @@ Overfull \vbox (2.93587pt too high) has occurred while \output is active []
 
 
 ] [27]
-<Figuras/fluxograma2teste.jpg, id=345, 1816.7875pt x 1172.38pt>
+<Figuras/fluxograma2teste.jpg, id=334, 1816.7875pt x 1172.38pt>
 File: Figuras/fluxograma2teste.jpg Graphic file (type jpg)
 <use Figuras/fluxograma2teste.jpg>
 Package pdftex.def Info: Figuras/fluxograma2teste.jpg  used on input line 30.
@@ -1592,7 +1562,7 @@ Overfull \vbox (30.87416pt too high) has occurred while \output is active []
 
 
 [28 <./Figuras/fluxograma2teste.jpg>] [29]
-<./Figuras/novocasodeusointegra.jpg, id=357, 774.64406pt x 395.97937pt>
+<./Figuras/novocasodeusointegra.jpg, id=346, 774.64406pt x 395.97937pt>
 File: ./Figuras/novocasodeusointegra.jpg Graphic file (type jpg)
 <use ./Figuras/novocasodeusointegra.jpg>
 Package pdftex.def Info: ./Figuras/novocasodeusointegra.jpg  used on input line
@@ -1603,14 +1573,14 @@ Overfull \vbox (1.34523pt too high) has occurred while \output is active []
 
 
 [31 <./Figuras/novocasodeusointegra.jpg>] [32]
-<./Figuras/Diagrama_de_classe_integrado.png, id=374, 1979.395pt x 1254.6875pt>
+<./Figuras/Diagrama_de_classe_integrado.png, id=363, 1979.395pt x 1254.6875pt>
 File: ./Figuras/Diagrama_de_classe_integrado.png Graphic file (type png)
 <use ./Figuras/Diagrama_de_classe_integrado.png>
 Package pdftex.def Info: ./Figuras/Diagrama_de_classe_integrado.png  used on in
 put line 79.
 (pdftex.def)             Requested size: 692.79865pt x 439.1472pt.
  [33 <./Figuras/Diagrama_de_classe_integrado.png>] [34]
-<./Figuras/diagramaDeAtividades.jpg, id=387, 670.75594pt x 304.88907pt>
+<./Figuras/diagramaDeAtividades.jpg, id=376, 670.75594pt x 304.88907pt>
 File: ./Figuras/diagramaDeAtividades.jpg Graphic file (type jpg)
 <use ./Figuras/diagramaDeAtividades.jpg>
 Package pdftex.def Info: ./Figuras/diagramaDeAtividades.jpg  used on input line
@@ -1621,7 +1591,7 @@ Package pdftex.def Info: ./Figuras/diagramaDeAtividades.jpg  used on input line
 
 
 (cap6.tex
-<Figuras/Login.png, id=402, 376.40625pt x 815.045pt>
+<Figuras/Login.png, id=391, 376.40625pt x 815.045pt>
 File: Figuras/Login.png Graphic file (type png)
 <use Figuras/Login.png>
 Package pdftex.def Info: Figuras/Login.png  used on input line 30.
@@ -1631,7 +1601,7 @@ Package pdftex.def Info: Figuras/Login.png  used on input line 30.
 
 
 ]
-<Figuras/MENU.png, id=408, 376.40625pt x 815.045pt>
+<Figuras/MENU.png, id=397, 376.40625pt x 815.045pt>
 File: Figuras/MENU.png Graphic file (type png)
 <use Figuras/MENU.png>
 Package pdftex.def Info: Figuras/MENU.png  used on input line 41.
@@ -1642,7 +1612,7 @@ ntifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.58 	}
        	
-<Figuras/MENU_1.png, id=415, 376.40625pt x 815.045pt>
+<Figuras/MENU_1.png, id=405, 376.40625pt x 815.045pt>
 File: Figuras/MENU_1.png Graphic file (type png)
 <use Figuras/MENU_1.png>
 Package pdftex.def Info: Figuras/MENU_1.png  used on input line 58.
@@ -1660,7 +1630,7 @@ d
                    \relax 
 l.70 	}
        
-<Figuras/CADASTROS_1.png, id=421, 376.40625pt x 815.045pt>
+<Figuras/CADASTROS_1.png, id=412, 376.40625pt x 815.045pt>
 File: Figuras/CADASTROS_1.png Graphic file (type png)
 <use Figuras/CADASTROS_1.png>
 Package pdftex.def Info: Figuras/CADASTROS_1.png  used on input line 70.
@@ -1671,7 +1641,7 @@ entifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.84 	}
        
-<Figuras/DETALHES_OS_1.png, id=428, 376.40625pt x 815.045pt>
+<Figuras/DETALHES_OS_1.png, id=419, 376.40625pt x 815.045pt>
 File: Figuras/DETALHES_OS_1.png Graphic file (type png)
 <use Figuras/DETALHES_OS_1.png>
 Package pdftex.def Info: Figuras/DETALHES_OS_1.png  used on input line 84.
@@ -1682,7 +1652,7 @@ me identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.95 	}
        	
-<Figuras/CADASTROS.png, id=435, 376.40625pt x 815.045pt>
+<Figuras/CADASTROS.png, id=426, 376.40625pt x 815.045pt>
 File: Figuras/CADASTROS.png Graphic file (type png)
 <use Figuras/CADASTROS.png>
 Package pdftex.def Info: Figuras/CADASTROS.png  used on input line 95.
@@ -1694,7 +1664,7 @@ d
                    \relax 
 l.111 	}
         	
-<Figuras/DETALHES_OS.png, id=443, 376.40625pt x 815.045pt>
+<Figuras/DETALHES_OS.png, id=434, 376.40625pt x 815.045pt>
 File: Figuras/DETALHES_OS.png Graphic file (type png)
 <use Figuras/DETALHES_OS.png>
 Package pdftex.def Info: Figuras/DETALHES_OS.png  used on input line 111.
@@ -1705,7 +1675,7 @@ Package pdftex.def Info: Figuras/DETALHES_OS.png  used on input line 111.
                    \relax 
 l.121 	}
         
-<Figuras/CONSULTAR_OS.png, id=450, 376.40625pt x 815.045pt>
+<Figuras/CONSULTAR_OS.png, id=441, 376.40625pt x 815.045pt>
 File: Figuras/CONSULTAR_OS.png Graphic file (type png)
 <use Figuras/CONSULTAR_OS.png>
 Package pdftex.def Info: Figuras/CONSULTAR_OS.png  used on input line 121.
@@ -1716,7 +1686,7 @@ me identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.135 	}
         
-<Figuras/SOLICITACOES_DE_PECAS.png, id=457, 376.40625pt x 815.045pt>
+<Figuras/SOLICITACOES_DE_PECAS.png, id=448, 376.40625pt x 815.045pt>
 File: Figuras/SOLICITACOES_DE_PECAS.png Graphic file (type png)
 <use Figuras/SOLICITACOES_DE_PECAS.png>
 Package pdftex.def Info: Figuras/SOLICITACOES_DE_PECAS.png  used on input line 
@@ -1729,7 +1699,7 @@ ame identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.146 	}
         	
-<Figuras/VERIFICACAO.png, id=464, 376.40625pt x 815.045pt>
+<Figuras/VERIFICACAO.png, id=455, 376.40625pt x 815.045pt>
 File: Figuras/VERIFICACAO.png Graphic file (type png)
 <use Figuras/VERIFICACAO.png>
 Package pdftex.def Info: Figuras/VERIFICACAO.png  used on input line 146.
@@ -1741,7 +1711,7 @@ e ignored
                    \relax 
 l.158 	}
         	
-<Figuras/VERIFICACAO_2.png, id=471, 376.40625pt x 815.045pt>
+<Figuras/VERIFICACAO_2.png, id=462, 376.40625pt x 815.045pt>
 File: Figuras/VERIFICACAO_2.png Graphic file (type png)
 <use Figuras/VERIFICACAO_2.png>
 Package pdftex.def Info: Figuras/VERIFICACAO_2.png  used on input line 158.
@@ -1752,7 +1722,7 @@ me identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.169 	}
         
-<Figuras/ASSINATURAS.png, id=478, 376.40625pt x 815.045pt>
+<Figuras/ASSINATURAS.png, id=469, 376.40625pt x 815.045pt>
 File: Figuras/ASSINATURAS.png Graphic file (type png)
 <use Figuras/ASSINATURAS.png>
 Package pdftex.def Info: Figuras/ASSINATURAS.png  used on input line 169.
@@ -1764,7 +1734,7 @@ d
                    \relax 
 l.181 	}
         
-<Figuras/EPI.png, id=486, 376.40625pt x 815.045pt>
+<Figuras/EPI.png, id=477, 376.40625pt x 815.045pt>
 File: Figuras/EPI.png Graphic file (type png)
 <use Figuras/EPI.png>
 Package pdftex.def Info: Figuras/EPI.png  used on input line 181.
@@ -1775,7 +1745,7 @@ me identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.194 	}
         
-<Figuras/EPI_1.png, id=493, 376.40625pt x 815.045pt>
+<Figuras/EPI_1.png, id=484, 376.40625pt x 815.045pt>
 File: Figuras/EPI_1.png Graphic file (type png)
 <use Figuras/EPI_1.png>
 Package pdftex.def Info: Figuras/EPI_1.png  used on input line 194.
@@ -1786,7 +1756,7 @@ ifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.213 	}
         
-<Figuras/LOGIN_1.png, id=500, 1927.2pt x 1084.05pt>
+<Figuras/LOGIN_1.png, id=491, 1927.2pt x 1084.05pt>
 File: Figuras/LOGIN_1.png Graphic file (type png)
 <use Figuras/LOGIN_1.png>
 Package pdftex.def Info: Figuras/LOGIN_1.png  used on input line 213.
@@ -1798,7 +1768,7 @@ sed, duplicate ignored
                    \relax 
 l.224 	}
         
-<Figuras/DASHBOARD_2.png, id=513, 1927.2pt x 1084.05pt>
+<Figuras/DASHBOARD_2.png, id=504, 1927.2pt x 1084.05pt>
 File: Figuras/DASHBOARD_2.png Graphic file (type png)
 <use Figuras/DASHBOARD_2.png>
 Package pdftex.def Info: Figuras/DASHBOARD_2.png  used on input line 224.
@@ -1809,7 +1779,7 @@ me identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.236 	}
         
-<Figuras/CADASTROS_3.png, id=520, 1927.2pt x 1084.05pt>
+<Figuras/CADASTROS_3.png, id=511, 1927.2pt x 1084.05pt>
 File: Figuras/CADASTROS_3.png Graphic file (type png)
 <use Figuras/CADASTROS_3.png>
 Package pdftex.def Info: Figuras/CADASTROS_3.png  used on input line 236.
@@ -1820,7 +1790,7 @@ me identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.247 	}
         
-<Figuras/CADASTRO_OS_4.png, id=528, 1927.2pt x 1084.05pt>
+<Figuras/CADASTRO_OS_4.png, id=519, 1927.2pt x 1084.05pt>
 File: Figuras/CADASTRO_OS_4.png Graphic file (type png)
 <use Figuras/CADASTRO_OS_4.png>
 Package pdftex.def Info: Figuras/CADASTRO_OS_4.png  used on input line 247.
@@ -1832,7 +1802,7 @@ d
                    \relax 
 l.259 	}
         
-<Figuras/CADASTRO_EQUIPAMENTO_5.png, id=535, 1927.2pt x 1084.05pt>
+<Figuras/CADASTRO_EQUIPAMENTO_5.png, id=526, 1927.2pt x 1084.05pt>
 File: Figuras/CADASTRO_EQUIPAMENTO_5.png Graphic file (type png)
 <use Figuras/CADASTRO_EQUIPAMENTO_5.png>
 Package pdftex.def Info: Figuras/CADASTRO_EQUIPAMENTO_5.png  used on input line
@@ -1845,7 +1815,7 @@ te ignored
                    \relax 
 l.271 	}
         
-<Figuras/CADASTRO_COMPONENTE_6.png, id=542, 1927.2pt x 1084.05pt>
+<Figuras/CADASTRO_COMPONENTE_6.png, id=533, 1927.2pt x 1084.05pt>
 File: Figuras/CADASTRO_COMPONENTE_6.png Graphic file (type png)
 <use Figuras/CADASTRO_COMPONENTE_6.png>
 Package pdftex.def Info: Figuras/CADASTRO_COMPONENTE_6.png  used on input line 
@@ -1858,7 +1828,7 @@ e ignored
                    \relax 
 l.284 	}
         
-<Figuras/CADASTRO_EPI_7.png, id=549, 1927.2pt x 1084.05pt>
+<Figuras/CADASTRO_EPI_7.png, id=540, 1927.2pt x 1084.05pt>
 File: Figuras/CADASTRO_EPI_7.png Graphic file (type png)
 <use Figuras/CADASTRO_EPI_7.png>
 Package pdftex.def Info: Figuras/CADASTRO_EPI_7.png  used on input line 284.
@@ -1870,7 +1840,7 @@ ed
                    \relax 
 l.295 	}
         
-<Figuras/CADASTRO_causa_8.png, id=556, 1927.2pt x 1084.05pt>
+<Figuras/CADASTRO_causa_8.png, id=547, 1927.2pt x 1084.05pt>
 File: Figuras/CADASTRO_causa_8.png Graphic file (type png)
 <use Figuras/CADASTRO_causa_8.png>
 Package pdftex.def Info: Figuras/CADASTRO_causa_8.png  used on input line 295.
@@ -1887,7 +1857,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.6.1
                    \relax 
 l.306 	}
         
-<Figuras/CADASTRO_DE_OPERACOES_9.png, id=563, 1927.2pt x 1084.05pt>
+<Figuras/CADASTRO_DE_OPERACOES_9.png, id=554, 1927.2pt x 1084.05pt>
 File: Figuras/CADASTRO_DE_OPERACOES_9.png Graphic file (type png)
 <use Figuras/CADASTRO_DE_OPERACOES_9.png>
 Package pdftex.def Info: Figuras/CADASTRO_DE_OPERACOES_9.png  used on input lin
@@ -1900,7 +1870,7 @@ ate ignored
                    \relax 
 l.317 	}
         
-<Figuras/Solicitacao_10.png, id=571, 1927.2pt x 1084.05pt>
+<Figuras/Solicitacao_10.png, id=562, 1927.2pt x 1084.05pt>
 File: Figuras/Solicitacao_10.png Graphic file (type png)
 <use Figuras/Solicitacao_10.png>
 Package pdftex.def Info: Figuras/Solicitacao_10.png  used on input line 317.
@@ -1912,7 +1882,7 @@ ed
                    \relax 
 l.328 	}
         
-<Figuras/CONSULTA_11.png, id=578, 1927.2pt x 1084.05pt>
+<Figuras/CONSULTA_11.png, id=569, 1927.2pt x 1084.05pt>
 File: Figuras/CONSULTA_11.png Graphic file (type png)
 <use Figuras/CONSULTA_11.png>
 Package pdftex.def Info: Figuras/CONSULTA_11.png  used on input line 328.
@@ -1923,7 +1893,7 @@ me identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.339 	}
         
-<Figuras/DETALHAMENTO_12.png, id=585, 1927.2pt x 1084.05pt>
+<Figuras/DETALHAMENTO_12.png, id=576, 1927.2pt x 1084.05pt>
 File: Figuras/DETALHAMENTO_12.png Graphic file (type png)
 <use Figuras/DETALHAMENTO_12.png>
 Package pdftex.def Info: Figuras/DETALHAMENTO_12.png  used on input line 339.
@@ -1935,7 +1905,7 @@ red
                    \relax 
 l.350 	}
         
-<Figuras/Verificacao_web.png, id=592, 1927.2pt x 1084.05pt>
+<Figuras/Verificacao_web.png, id=583, 1927.2pt x 1084.05pt>
 File: Figuras/Verificacao_web.png Graphic file (type png)
 <use Figuras/Verificacao_web.png>
 Package pdftex.def Info: Figuras/Verificacao_web.png  used on input line 350.
@@ -1947,7 +1917,7 @@ red
                    \relax 
 l.361 	}
         
-<Figuras/APONTAMENTO_web.png, id=599, 1927.2pt x 1084.05pt>
+<Figuras/APONTAMENTO_web.png, id=590, 1927.2pt x 1084.05pt>
 File: Figuras/APONTAMENTO_web.png Graphic file (type png)
 <use Figuras/APONTAMENTO_web.png>
 Package pdftex.def Info: Figuras/APONTAMENTO_web.png  used on input line 361.
@@ -1959,7 +1929,7 @@ red
                    \relax 
 l.371 	}
         
-<Figuras/Assinatura_web.png, id=606, 1927.2pt x 1084.05pt>
+<Figuras/Assinatura_web.png, id=597, 1927.2pt x 1084.05pt>
 File: Figuras/Assinatura_web.png Graphic file (type png)
 <use Figuras/Assinatura_web.png>
 Package pdftex.def Info: Figuras/Assinatura_web.png  used on input line 371.
@@ -1971,7 +1941,7 @@ ed
                    \relax 
 l.382 	}
         
-<Figuras/Relatorios.png, id=614, 1927.2pt x 1084.05pt>
+<Figuras/Relatorios.png, id=605, 1927.2pt x 1084.05pt>
 File: Figuras/Relatorios.png Graphic file (type png)
 <use Figuras/Relatorios.png>
 Package pdftex.def Info: Figuras/Relatorios.png  used on input line 382.
@@ -1982,7 +1952,7 @@ e identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.392 	}
         
-<Figuras/Relatorios_1.png, id=621, 1927.2pt x 1084.05pt>
+<Figuras/Relatorios_1.png, id=612, 1927.2pt x 1084.05pt>
 File: Figuras/Relatorios_1.png Graphic file (type png)
 <use Figuras/Relatorios_1.png>
 Package pdftex.def Info: Figuras/Relatorios_1.png  used on input line 392.
@@ -1994,7 +1964,7 @@ ame identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.402 	}
         
-<Figuras/Relatorios_mensais.png, id=628, 1927.2pt x 1084.05pt>
+<Figuras/Relatorios_mensais.png, id=619, 1927.2pt x 1084.05pt>
 File: Figuras/Relatorios_mensais.png Graphic file (type png)
 <use Figuras/Relatorios_mensais.png>
 Package pdftex.def Info: Figuras/Relatorios_mensais.png  used on input line 402
@@ -2007,7 +1977,7 @@ gnored
                    \relax 
 l.412 	}
         
-<Figuras/Relatorios_mensais _1.png, id=635, 1927.2pt x 1084.05pt>
+<Figuras/Relatorios_mensais _1.png, id=626, 1927.2pt x 1084.05pt>
 File: Figuras/Relatorios_mensais _1.png Graphic file (type png)
 <use Figuras/Relatorios_mensais _1.png>
 Package pdftex.def Info: Figuras/Relatorios_mensais _1.png  used on input line 
@@ -2020,7 +1990,7 @@ e ignored
                    \relax 
 l.422 	}
         
-<Figuras/Relatorios_mensais _2.png, id=642, 1927.2pt x 1084.05pt>
+<Figuras/Relatorios_mensais _2.png, id=633, 1927.2pt x 1084.05pt>
 File: Figuras/Relatorios_mensais _2.png Graphic file (type png)
 <use Figuras/Relatorios_mensais _2.png>
 Package pdftex.def Info: Figuras/Relatorios_mensais _2.png  used on input line 
@@ -2033,7 +2003,7 @@ e ignored
                    \relax 
 l.432 	}
         
-<Figuras/Relatorios_por_equipamento.png, id=649, 1927.2pt x 1084.05pt>
+<Figuras/Relatorios_por_equipamento.png, id=640, 1927.2pt x 1084.05pt>
 File: Figuras/Relatorios_por_equipamento.png Graphic file (type png)
 <use Figuras/Relatorios_por_equipamento.png>
 Package pdftex.def Info: Figuras/Relatorios_por_equipamento.png  used on input 
@@ -2046,7 +2016,7 @@ licate ignored
                    \relax 
 l.444 	}
         
-<Figuras/verificacao_13_1.png, id=657, 1927.2pt x 1084.05pt>
+<Figuras/verificacao_13_1.png, id=648, 1927.2pt x 1084.05pt>
 File: Figuras/verificacao_13_1.png Graphic file (type png)
 <use Figuras/verificacao_13_1.png>
 Package pdftex.def Info: Figuras/verificacao_13_1.png  used on input line 444.
@@ -2058,7 +2028,7 @@ ored
                    \relax 
 l.455 	}
         
-<Figuras/CHECKLIST_14.png, id=664, 1927.2pt x 1084.05pt>
+<Figuras/CHECKLIST_14.png, id=655, 1927.2pt x 1084.05pt>
 File: Figuras/CHECKLIST_14.png Graphic file (type png)
 <use Figuras/CHECKLIST_14.png>
 Package pdftex.def Info: Figuras/CHECKLIST_14.png  used on input line 455.
@@ -2070,7 +2040,7 @@ ame identifier (name{subfigure.6.1.1}) has been already used, duplicate ignored
                    \relax 
 l.466 	}
         
-<Figuras/CHECKLIST_14_1.png, id=671, 1927.2pt x 1084.05pt>
+<Figuras/CHECKLIST_14_1.png, id=662, 1927.2pt x 1084.05pt>
 File: Figuras/CHECKLIST_14_1.png Graphic file (type png)
 <use Figuras/CHECKLIST_14_1.png>
 Package pdftex.def Info: Figuras/CHECKLIST_14_1.png  used on input line 466.
@@ -2082,7 +2052,7 @@ ed
                    \relax 
 l.477 	}
         
-<Figuras/ASSINATURA_15.png, id=678, 1927.2pt x 1084.05pt>
+<Figuras/ASSINATURA_15.png, id=669, 1927.2pt x 1084.05pt>
 File: Figuras/ASSINATURA_15.png Graphic file (type png)
 <use Figuras/ASSINATURA_15.png>
 Package pdftex.def Info: Figuras/ASSINATURA_15.png  used on input line 477.
@@ -2094,7 +2064,7 @@ d
                    \relax 
 l.488 	}
         
-<Figuras/CADASTRAR_USUARIO_16.png, id=685, 1927.2pt x 1084.05pt>
+<Figuras/CADASTRAR_USUARIO_16.png, id=676, 1927.2pt x 1084.05pt>
 File: Figuras/CADASTRAR_USUARIO_16.png Graphic file (type png)
 <use Figuras/CADASTRAR_USUARIO_16.png>
 Package pdftex.def Info: Figuras/CADASTRAR_USUARIO_16.png  used on input line 4
@@ -2111,143 +2081,173 @@ Package pdftex.def Info: Figuras/CADASTRAR_USUARIO_16.png  used on input line 4
 \openout2 = `cap8.aux'.
 
  (cap8.tex
-<Figuras/LoginCodigo.jpg, id=697, 849.92531pt x 476.53032pt>
+<Figuras/LoginCodigo.jpg, id=688, 849.92531pt x 476.53032pt>
 File: Figuras/LoginCodigo.jpg Graphic file (type jpg)
 <use Figuras/LoginCodigo.jpg>
 Package pdftex.def Info: Figuras/LoginCodigo.jpg  used on input line 18.
-(pdftex.def)             Requested size: 424.96161pt x 238.26457pt.
+(pdftex.def)             Requested size: 509.95912pt x 285.9204pt.
+
+Overfull \hbox (29.43132pt too wide) in paragraph at lines 18--19
+ [][] 
+ []
 
 [79
 
 
 
- <./Figuras/LoginCodigo.jpg>]
-<Figuras/Rotalogin.jpg, id=703, 842.39719pt x 483.30562pt>
+ <./Figuras/LoginCodigo.jpg>]pdfTeX warning (ext4): destination with the same i
+dentifier (name{subfigure.8.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 	}
+       
+<Figuras/Rotalogin.jpg, id=695, 842.39719pt x 483.30562pt>
 File: Figuras/Rotalogin.jpg Graphic file (type jpg)
 <use Figuras/Rotalogin.jpg>
-Package pdftex.def Info: Figuras/Rotalogin.jpg  used on input line 33.
-(pdftex.def)             Requested size: 421.19756pt x 241.65222pt.
- [80 <./Figuras/Rotalogin.jpg>]
-<Figuras/Validacaologin.jpg, id=709, 841.64438pt x 480.29437pt>
+Package pdftex.def Info: Figuras/Rotalogin.jpg  used on input line 32.
+(pdftex.def)             Requested size: 505.44221pt x 289.98561pt.
+
+Overfull \hbox (47.71434pt too wide) in paragraph at lines 32--33
+ [][] 
+ []
+
+[80 <./Figuras/Rotalogin.jpg>]pdfTeX warning (ext4): destination with the same 
+identifier (name{subfigure.8.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.47 	}
+       
+<Figuras/Validacaologin.jpg, id=701, 841.64438pt x 480.29437pt>
 File: Figuras/Validacaologin.jpg Graphic file (type jpg)
 <use Figuras/Validacaologin.jpg>
-Package pdftex.def Info: Figuras/Validacaologin.jpg  used on input line 49.
-(pdftex.def)             Requested size: 420.82117pt x 240.14659pt.
- [81 <./Figuras/Validacaologin.jpg>]
-<Figuras/DaoLogin.jpg, id=714, 840.89156pt x 477.28313pt>
+Package pdftex.def Info: Figuras/Validacaologin.jpg  used on input line 47.
+(pdftex.def)             Requested size: 504.99052pt x 288.17883pt.
+
+Overfull \hbox (47.26265pt too wide) in paragraph at lines 47--48
+ [][] 
+ []
+
+[81 <./Figuras/Validacaologin.jpg>]pdfTeX warning (ext4): destination with the 
+same identifier (name{subfigure.8.1.1}) has been already used, duplicate ignore
+d
+<to be read again> 
+                   \relax 
+l.62 	}
+       
+<Figuras/DaoLogin.jpg, id=707, 840.89156pt x 477.28313pt>
 File: Figuras/DaoLogin.jpg Graphic file (type jpg)
 <use Figuras/DaoLogin.jpg>
-Package pdftex.def Info: Figuras/DaoLogin.jpg  used on input line 64.
-(pdftex.def)             Requested size: 420.44475pt x 238.64098pt.
- [82 <./Figuras/DaoLogin.jpg>] [83]
-<Figuras/Login_WEB_1.png, id=723, 1028.34187pt x 548.0475pt>
+Package pdftex.def Info: Figuras/DaoLogin.jpg  used on input line 62.
+(pdftex.def)             Requested size: 504.53882pt x 286.37207pt.
+
+Overfull \hbox (46.81094pt too wide) in paragraph at lines 62--63
+ [][] 
+ []
+
+[82 <./Figuras/DaoLogin.jpg>] [83]
+<Figuras/Login_WEB_1.png, id=717, 1028.34187pt x 548.0475pt>
 File: Figuras/Login_WEB_1.png Graphic file (type png)
 <use Figuras/Login_WEB_1.png>
-Package pdftex.def Info: Figuras/Login_WEB_1.png  used on input line 104.
-(pdftex.def)             Requested size: 637.56538pt x 339.78593pt.
- [84] [85 <./Figuras/Login_WEB_1.png>]
-<Figuras/Cadastros_Sistema_1.png, id=735, 1445.4pt x 703.87968pt>
+Package pdftex.def Info: Figuras/Login_WEB_1.png  used on input line 102.
+(pdftex.def)             Requested size: 565.58978pt x 301.42705pt.
+ [84 <./Figuras/Login_WEB_1.png>]
+<Figuras/Cadastros_Sistema_1.png, id=725, 1445.4pt x 703.87968pt>
 File: Figuras/Cadastros_Sistema_1.png Graphic file (type png)
 <use Figuras/Cadastros_Sistema_1.png>
 Package pdftex.def Info: Figuras/Cadastros_Sistema_1.png  used on input line 11
-7.
-(pdftex.def)             Requested size: 722.69824pt x 351.93898pt.
- [86]
-Overfull \vbox (28.34972pt too high) has occurred while \output is active []
-
-
-[87 <./Figuras/Cadastros_Sistema_1.png>]
-<Figuras/step_1.png, id=746, 1445.4pt x 903.375pt>
+5.
+(pdftex.def)             Requested size: 650.424pt x 316.74292pt.
+ [85 <./Figuras/Cadastros_Sistema_1.png>]
+<Figuras/step_1.png, id=732, 1445.4pt x 903.375pt>
 File: Figuras/step_1.png Graphic file (type png)
 <use Figuras/step_1.png>
-Package pdftex.def Info: Figuras/step_1.png  used on input line 130.
+Package pdftex.def Info: Figuras/step_1.png  used on input line 128.
 (pdftex.def)             Requested size: 607.06387pt x 379.41492pt.
- [88 <./Figuras/step_1.png>]
-<Figuras/step_2.png, id=753, 1445.4pt x 903.375pt>
+ [86 <./Figuras/step_1.png>]
+<Figuras/step_2.png, id=739, 1445.4pt x 903.375pt>
 File: Figuras/step_2.png Graphic file (type png)
 <use Figuras/step_2.png>
-Package pdftex.def Info: Figuras/step_2.png  used on input line 143.
+Package pdftex.def Info: Figuras/step_2.png  used on input line 141.
 (pdftex.def)             Requested size: 607.06387pt x 379.41492pt.
- [89 <./Figuras/step_2.png>]
-<Figuras/step_3.png, id=760, 1445.4pt x 903.375pt>
+ [87 <./Figuras/step_2.png>]
+<Figuras/step_3.png, id=746, 1445.4pt x 903.375pt>
 File: Figuras/step_3.png Graphic file (type png)
 <use Figuras/step_3.png>
-Package pdftex.def Info: Figuras/step_3.png  used on input line 156.
+Package pdftex.def Info: Figuras/step_3.png  used on input line 154.
 (pdftex.def)             Requested size: 607.06387pt x 379.41492pt.
- [90 <./Figuras/step_3.png>]
-<Figuras/Cadastro_Equipamento_Sistema.png, id=768, 1028.34187pt x 548.0475pt>
+ [88 <./Figuras/step_3.png>]
+<Figuras/Cadastro_Equipamento_Sistema.png, id=753, 1028.34187pt x 548.0475pt>
 File: Figuras/Cadastro_Equipamento_Sistema.png Graphic file (type png)
 <use Figuras/Cadastro_Equipamento_Sistema.png>
 Package pdftex.def Info: Figuras/Cadastro_Equipamento_Sistema.png  used on inpu
-t line 169.
+t line 167.
 (pdftex.def)             Requested size: 637.56538pt x 339.78593pt.
- [91 <./Figuras/Cadastro_Equipamento_Sistema.png>]
-<Figuras/Cadastro_Componentes.png, id=775, 1028.34187pt x 547.2947pt>
+ [89 <./Figuras/Cadastro_Equipamento_Sistema.png>]
+<Figuras/Cadastro_Componentes.png, id=760, 1028.34187pt x 547.2947pt>
 File: Figuras/Cadastro_Componentes.png Graphic file (type png)
 <use Figuras/Cadastro_Componentes.png>
 Package pdftex.def Info: Figuras/Cadastro_Componentes.png  used on input line 1
-82.
+80.
 (pdftex.def)             Requested size: 637.56538pt x 339.3192pt.
- [92 <./Figuras/Cadastro_Componentes.png>]
-<Figuras/Cadastro_Epi_Sistema.png, id=782, 1024.57782pt x 545.78906pt>
+ [90 <./Figuras/Cadastro_Componentes.png>]
+<Figuras/Cadastro_Epi_Sistema.png, id=768, 1024.57782pt x 545.78906pt>
 File: Figuras/Cadastro_Epi_Sistema.png Graphic file (type png)
 <use Figuras/Cadastro_Epi_Sistema.png>
 Package pdftex.def Info: Figuras/Cadastro_Epi_Sistema.png  used on input line 1
-95.
+93.
 (pdftex.def)             Requested size: 635.23169pt x 338.38571pt.
- [93 <./Figuras/Cadastro_Epi_Sistema.png>]
-<Figuras/Cadastro_Causa_Defeito.png, id=789, 1028.34187pt x 548.0475pt>
+ [91 <./Figuras/Cadastro_Epi_Sistema.png>]
+<Figuras/Cadastro_Causa_Defeito.png, id=775, 1028.34187pt x 548.0475pt>
 File: Figuras/Cadastro_Causa_Defeito.png Graphic file (type png)
 <use Figuras/Cadastro_Causa_Defeito.png>
 Package pdftex.def Info: Figuras/Cadastro_Causa_Defeito.png  used on input line
- 208.
+ 206.
 (pdftex.def)             Requested size: 637.56538pt x 339.78593pt.
- [94 <./Figuras/Cadastro_Causa_Defeito.png>]
-<Figuras/Cadastro_Sintomas.png, id=796, 1028.34187pt x 548.0475pt>
+ [92 <./Figuras/Cadastro_Causa_Defeito.png>]
+<Figuras/Cadastro_Sintomas.png, id=782, 1028.34187pt x 548.0475pt>
 File: Figuras/Cadastro_Sintomas.png Graphic file (type png)
 <use Figuras/Cadastro_Sintomas.png>
-Package pdftex.def Info: Figuras/Cadastro_Sintomas.png  used on input line 221.
+Package pdftex.def Info: Figuras/Cadastro_Sintomas.png  used on input line 219.
 
 (pdftex.def)             Requested size: 637.56538pt x 339.78593pt.
- [95 <./Figuras/Cadastro_Sintomas.png>]
-<Figuras/Cadastro_Localizaçao.png, id=803, 1026.83624pt x 547.2947pt>
+ [93 <./Figuras/Cadastro_Sintomas.png>]
+<Figuras/Cadastro_Localizaçao.png, id=789, 1026.83624pt x 547.2947pt>
 File: Figuras/Cadastro_Localizaçao.png Graphic file (type png)
 <use Figuras/Cadastro_Localizaçao.png>
 Package pdftex.def Info: Figuras/Cadastro_Localizaçao.png  used on input line 
-234.
+232.
 (pdftex.def)             Requested size: 636.6319pt x 339.3192pt.
- [96 <./Figuras/Cadastro_Localizaçao.png>]
-<Figuras/Cadastro_Centro_Trabalho.png, id=811, 1028.34187pt x 548.0475pt>
+ [94 <./Figuras/Cadastro_Localizaçao.png>]
+<Figuras/Cadastro_Centro_Trabalho.png, id=796, 1028.34187pt x 548.0475pt>
 File: Figuras/Cadastro_Centro_Trabalho.png Graphic file (type png)
 <use Figuras/Cadastro_Centro_Trabalho.png>
 Package pdftex.def Info: Figuras/Cadastro_Centro_Trabalho.png  used on input li
-ne 248.
+ne 246.
 (pdftex.def)             Requested size: 637.56538pt x 339.78593pt.
- [97 <./Figuras/Cadastro_Centro_Trabalho.png>]
-<Figuras/Cadastro_Tipo_Ordem.png, id=818, 1028.34187pt x 547.2947pt>
+ [95 <./Figuras/Cadastro_Centro_Trabalho.png>]
+<Figuras/Cadastro_Tipo_Ordem.png, id=803, 1028.34187pt x 547.2947pt>
 File: Figuras/Cadastro_Tipo_Ordem.png Graphic file (type png)
 <use Figuras/Cadastro_Tipo_Ordem.png>
-Package pdftex.def Info: Figuras/Cadastro_Tipo_Ordem.png  used on input line 26
-1.
+Package pdftex.def Info: Figuras/Cadastro_Tipo_Ordem.png  used on input line 25
+9.
 (pdftex.def)             Requested size: 637.56538pt x 339.3192pt.
- [98 <./Figuras/Cadastro_Tipo_Ordem.png>]
-<Figuras/listagem_e_cadastro_de_usuario.png, id=825, 1445.4pt x 703.12688pt>
+ [96 <./Figuras/Cadastro_Tipo_Ordem.png>]
+<Figuras/listagem_e_cadastro_de_usuario.png, id=811, 1445.4pt x 703.12688pt>
 File: Figuras/listagem_e_cadastro_de_usuario.png Graphic file (type png)
 <use Figuras/listagem_e_cadastro_de_usuario.png>
 Package pdftex.def Info: Figuras/listagem_e_cadastro_de_usuario.png  used on in
-put line 275.
+put line 273.
 (pdftex.def)             Requested size: 679.3381pt x 330.46967pt.
-
-[99] [100 <./Figuras/listagem_e_cadastro_de_usuario.png>]
-<Figuras/Consulta_ordem.png, id=836, 1445.4pt x 703.12688pt>
+ [97] [98 <./Figuras/listagem_e_cadastro_de_usuario.png>]
+<Figuras/Consulta_ordem.png, id=822, 1445.4pt x 703.12688pt>
 File: Figuras/Consulta_ordem.png Graphic file (type png)
 <use Figuras/Consulta_ordem.png>
-Package pdftex.def Info: Figuras/Consulta_ordem.png  used on input line 288.
+Package pdftex.def Info: Figuras/Consulta_ordem.png  used on input line 286.
 (pdftex.def)             Requested size: 650.424pt x 316.40416pt.
- [101 <./Figuras/Consulta_ordem.png>])
+ [99 <./Figuras/Consulta_ordem.png>])
 \openout2 = `cap9.aux'.
 
- (cap9.tex) [102
+ (cap9.tex) [100
 
 
 
@@ -2259,7 +2259,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 7.59998pt on input line 44.
 ) 
 AED: lastpage setting LastPage
-[103
+[101
 
 
 ]
@@ -2283,29 +2283,20 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
  ) 
 Here is how much of TeX's memory you used:
  27200 strings out of 492453
- 460788 string characters out of 3129813
- 708734 words of memory out of 3000000
- 30800 multiletter control sequences out of 15000+200000
+ 460230 string characters out of 3129813
+ 707734 words of memory out of 3000000
+ 30804 multiletter control sequences out of 15000+200000
  592540 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,12n,63p,994b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{chapter*.81} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.80} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.79} has been referenced but does not
- exist, replaced by a fixed one
-
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr
-o8a.pfb>
-Output written on "Smart Solution _v1_2020.pdf" (104 pages, 5789109 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
+rw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
+vro8a.pfb>
+Output written on "Smart Solution _v1_2020.pdf" (102 pages, 5786556 bytes).
 PDF statistics:
- 1073 PDF objects out of 1200 (max. 8388607)
- 261 named destinations out of 1000 (max. 500000)
+ 1056 PDF objects out of 1200 (max. 8388607)
+ 257 named destinations out of 1000 (max. 500000)
  777 words of extra memory for PDF output out of 10000 (max. 10000000)
 

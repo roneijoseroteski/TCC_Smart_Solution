@@ -37,8 +37,8 @@
 \contentsline {subsection}{\numberline {8.0.1}Códigos da Implementação}{79}{subsection.8.0.1}% 
 \contentsline {section}{\numberline {8.1}Desenvolvimento da Aplicação Cliente}{82}{section.8.1}% 
 \contentsline {section}{\numberline {8.2}Desenvolvimento da Aplicação Server}{82}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}Framework para Conexão Restful}{82}{section.8.3}% 
+\contentsline {section}{\numberline {8.3}Framework para Conexão Restful}{83}{section.8.3}% 
 \contentsline {section}{\numberline {8.4}Conexão com Banco de Dados}{83}{section.8.4}% 
 \contentsline {section}{\numberline {8.5}Telas Implementadas}{84}{section.8.5}% 
-\contentsline {chapter}{\chapternumberline {9}Conclusões e Trabalhos Futuros}{102}{chapter.9}% 
-\contentsline {chapter}{REFER\^ENCIAS BIBLIOGR\'AFICAS}{103}{chapter*.79}% 
+\contentsline {chapter}{\chapternumberline {9}Conclusões e Trabalhos Futuros}{100}{chapter.9}% 
+\contentsline {chapter}{REFER\^ENCIAS BIBLIOGR\'AFICAS}{101}{chapter*.79}% 

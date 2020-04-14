@@ -63,23 +63,19 @@
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela para cadastrar usuário}}}{77}{subfigure.6.1.1}% 
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Tela com a implementação do Login da \textit {Smart Solution}\relax }}{79}{figure.caption.60}% 
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Tela de implementação da rota de Login da\textit {Smart Solution}\relax }}{80}{figure.caption.61}% 
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Tela com a implementação da validação dos dados de Login da\textit {Smart Solution}\relax }}{81}{figure.caption.62}% 
-\contentsline {figure}{\numberline {8.4}{\ignorespaces Tela da implementação com a comunicação para o banco de dados da\textit {Smart Solution}\relax }}{82}{figure.caption.63}% 
-\contentsline {figure}{\numberline {8.5}{\ignorespaces Próprio autor\relax }}{85}{figure.caption.64}% 
-\contentsline {figure}{\numberline {8.6}{\ignorespaces Próprio autor\relax }}{87}{figure.caption.65}% 
-\contentsline {figure}{\numberline {8.7}{\ignorespaces Próprio autor\relax }}{88}{figure.caption.66}% 
-\contentsline {figure}{\numberline {8.8}{\ignorespaces Próprio autor\relax }}{89}{figure.caption.67}% 
-\contentsline {figure}{\numberline {8.9}{\ignorespaces Próprio autor\relax }}{90}{figure.caption.68}% 
-\contentsline {figure}{\numberline {8.10}{\ignorespaces Próprio autor\relax }}{91}{figure.caption.69}% 
-\contentsline {figure}{\numberline {8.11}{\ignorespaces Próprio autor\relax }}{92}{figure.caption.70}% 
-\contentsline {figure}{\numberline {8.12}{\ignorespaces Próprio autor\relax }}{93}{figure.caption.71}% 
-\contentsline {figure}{\numberline {8.13}{\ignorespaces Próprio autor\relax }}{94}{figure.caption.72}% 
-\contentsline {figure}{\numberline {8.14}{\ignorespaces Próprio autor\relax }}{95}{figure.caption.73}% 
-\contentsline {figure}{\numberline {8.15}{\ignorespaces Próprio autor\relax }}{96}{figure.caption.74}% 
-\contentsline {figure}{\numberline {8.16}{\ignorespaces Próprio autor\relax }}{97}{figure.caption.75}% 
-\contentsline {figure}{\numberline {8.17}{\ignorespaces Próprio autor\relax }}{98}{figure.caption.76}% 
-\contentsline {figure}{\numberline {8.18}{\ignorespaces Próprio autor\relax }}{100}{figure.caption.77}% 
-\contentsline {figure}{\numberline {8.19}{\ignorespaces Próprio autor\relax }}{101}{figure.caption.78}% 
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Tela de login\relax }}{84}{figure.caption.64}% 
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Tela de opções de cadastros\relax }}{85}{figure.caption.65}% 
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Próprio autor\relax }}{86}{figure.caption.66}% 
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Tela de cadastro de OS\relax }}{87}{figure.caption.67}% 
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Tela de cadastro de OS\relax }}{88}{figure.caption.68}% 
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Tela de cadastrar equipamentos\relax }}{89}{figure.caption.69}% 
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Tela de cadastrar componentes\relax }}{90}{figure.caption.70}% 
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Tela de cadastrar EPI\relax }}{91}{figure.caption.71}% 
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Tela de cadastrar causas\relax }}{92}{figure.caption.72}% 
+\contentsline {figure}{\numberline {8.10}{\ignorespaces Tela de cadastrar sintomas\relax }}{93}{figure.caption.73}% 
+\contentsline {figure}{\numberline {8.11}{\ignorespaces Tela de cadastrar localização do equipamento\relax }}{94}{figure.caption.74}% 
+\contentsline {figure}{\numberline {8.12}{\ignorespaces Tela de cadastrar centro de trabalho\relax }}{95}{figure.caption.75}% 
+\contentsline {figure}{\numberline {8.13}{\ignorespaces Tela de cadastrar tipo de ordem serviço\relax }}{96}{figure.caption.76}% 
+\contentsline {figure}{\numberline {8.14}{\ignorespaces Tela de cadastrar e listar usuários\relax }}{98}{figure.caption.77}% 
+\contentsline {figure}{\numberline {8.15}{\ignorespaces Tela de cadastrar e listar usuários\relax }}{99}{figure.caption.78}% 
 \addvspace {10pt}
