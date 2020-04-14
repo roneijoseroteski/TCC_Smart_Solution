@@ -1,0 +1,159 @@
+
+% Arquivo principal para trabalhos acadêmicos Senai Jaraguá do Sul
+% abnTeX2: Modelo de Trabalho Academico em conformidade com 
+% ABNT NBR 14724:2011: Informacao e documentacao - Trabalhos academicos -
+% Apresentacao
+
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+
+\documentclass[
+	12pt,				% tamanho da fonte
+	openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
+	oneside,			% para n imprimir frente e verso
+	a4paper,			% tamanho do papel. 
+	chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
+	%section=TITLE,		% títulos de seções convertidos em letras maiúsculas
+	%subsection=TITLE,	% títulos de subseções convertidos em letras maiúsculas
+	%subsubsection=TITLE,% títulos de subsubseções convertidos em letras maiúsculas
+	% -- opções do pacote babel --
+	english,			% idioma adicional para hifenização
+	brazil,				% o último idioma é o principal do documento
+	]{./Data/udesc}
+
+\usepackage{./Data/udescsty}
+\usepackage{color,graphicx}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{lscape}
+
+
+% ---
+% Informações de dados para CAPA e FOLHA DE ROSTO
+% ---
+\titulo{Projeto Integrador}
+
+
+\autor{Ronei José Roteski, Fernando Marques Candido, Douglas Penna Bastos Blank, Gustavo Giese}
+\local{Jaraguá do sul}
+\data{2020}
+%\fulldata{07 de Agosto de 2013}
+\orientador{Proª Msc. Tathiane Duarte do Amarante}
+\coorientador{Mario Cleiton}
+\instituicao{Faculdade do Estado de Santa Catarina - Senai}
+\campus{Senai Jaragua do Sul}
+%\tipotrabalho{Mestrado}
+%\tipodoc{Dissertação}
+\curso{Sistemas para Internet}
+%\titulacao{Mestre em Engenharia Elétrica}
+%\area{Automação de Sistemas}
+%\nivelgrau{Mestrado Acadêmico}
+%\preambulo{Dissertação submetida ao Programa de Pós-Graduação em Engenharia Elétrica do Centro de Ciências Tecnológicas da Universidade do Estado de Santa Catarina, para a obtenção do grau de Mestre em Engenharia Elétrica.}
+% ---
+
+% ----
+% Início do documento
+% ----
+\begin{document}
+% ----------------------------------------------------------
+% ELEMENTOS PRÉ-TEXTUAIS
+% ----------------------------------------------------------
+\include{pretextual}
+
+% ---
+% inserir lista de abreviaturas e siglas
+% ---
+%\begin{siglas}
+%  \item[OS]       ordem serviço
+
+%\end{siglas}
+% ---
+
+% ---
+% inserir lista de símbolos
+% ---
+
+
+% ---
+% inserir o sumario
+% ---
+\pdfbookmark[0]{\contentsname}{toc}
+
+\tableofcontents*
+\cleardoublepage
+% ---
+
+\textual
+% ---
+
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\include{cap1}
+\include{cap2}
+\include{cap3}
+\include{cap4}
+\include{cap5}
+\include{cap6}
+\include{cap7}
+\include{cap8}
+\include{cap9}
+%\include{cap10}
+% ---
+% Finaliza a parte no bookmark do PDF, para que se inicie o bookmark na raiz
+% ---
+\bookmarksetup{startatroot}% 
+% ---
+
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+\postextual
+
+
+% ----------------------------------------------------------
+% Referências bibliográficas
+% ----------------------------------------------------------
+
+\bibliography{refereces}
+% ----------------------------------------------------------
+% Glossário
+% ----------------------------------------------------------
+%
+% Consulte o manual da classe abntex2 para orientações sobre o glossário.
+%
+%\glossary
+
+% ----------------------------------------------------------
+% Apêndices
+% ----------------------------------------------------------
+%\begin{apendicesenv}
+
+% Imprime uma página indicando o início dos apêndices
+%\partapendices
+
+
+
+%\end{apendicesenv}
+
+% ----------------------------------------------------------
+% Anexos
+
+% ----------------------------------------------------------
+%\begin{anexosenv}
+
+% Imprime uma página indicando o início dos anexos
+%\partanexos
+
+%\include{anexo}
+
+%\end{anexosenv}
+
+%---------------------------------------------------------------------
+% INDICE REMISSIVO
+%---------------------------------------------------------------------
+
+%\printindex
+
+\end{document}
+% FIM

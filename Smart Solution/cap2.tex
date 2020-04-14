@@ -1,0 +1,243 @@
+\chapter{Pesquisa de Anterioridade}
+
+
+Com o desenvolvimento do presente trabalho, ficou visível que muitas das funcionalidades presentes no sistema, já existem. Há vários sistemas de ordens de serviço e gestão de manutenção atualmente no mercado, a seguir será elencado alguns dos destaques no mercado atualmente.
+
+O sistema da \textit{Auvo} é um sistema de gestão de manutenção, com a capacidade de geração de ordens de manutenção, controle das ordens, relatórios de execução, porém diferente do
+projeto apresentado neste documento. O sistema do Auvo é um pouco mais abrangente,
+Gestão de orçamentos e cálculo de reembolso de despesas.\cite{Auvo2019}
+
+Outro sistema que também destaca-se, é o \textit{Umov} 
+, que permite a geração de ordens de serviço,
+os diferenciais deste sistema são o sistema de Geolocalização, Checklists de atividades \cite{umov2019}.
+
+O sistema \textit{Smart Solution}, diferente dos apresentados anteriormente por ser mais específico para as
+necessidades da empresa Duas Rodas, assim com design personalizado, desempenho melhor em seus processos.
+
+
+\chapter{Descrição do Sistema }
+
+Este capítulo tem como objetivo descrever o planejamento dos requisitos  do sistema, o escopo e as principais funções. A descrição geral do sistema deve abrange os itens a seguir: descrição do problema que o software vai resolver, seus envolvidos e suas características para implementação de cada função na solução.
+
+
+
+\section{Descrição do Problema}
+% ---
+ {\color{red} melhorar essa introdução que eu adicionei.......
+ O  Sistema foi desenvolvido para sanar as dificuldades que a empresa tem com relação as ordens de manutenção serem exclusivamente de maneira manual, buscando de forma prática e objetiva deixando as informações necessárias para a execução dos trabalho mais rápidas e eficientes.}
+
+Sendo assim, o sistema desenvolvido tem como objetivo resolver principalmente os problemas descritos a seguir:
+%O desenvolvimento deste sistema, tem como objetivo resolver principalmente os problemas a seguir:
+
+\begin{itemize}
+	\item Fluxo lento nos processos de manutenção industrial na empresa.
+	\item Falta de automação.
+	\item Logística complicada.
+	\item Falta de Controle das informações.
+	\item Dificuldade em armazenar informações.
+	\item Utilização excessiva de papel.
+	%\item
+
+\end{itemize}
+
+{\color{red} Melhorar essa descrição} O software \textit{Smart Solution} tem  como diferencial tornar possível, melhorando a eficiência os itens a seguir:
+
+\begin{itemize}
+
+	\item Transformar o processo de manutenção em um processo digital de fácil controle.
+	\item Gerenciar as ordens de manutenção com mais facilidade.
+	\item Transformar os apontamentos de produção dos mecânicos rápido e dinâmico.
+	\item Reduzir consideravelmente o uso de papeis.
+		
+\end{itemize}
+
+
+
+\section{Principais Envolvidos e suas Características}
+% ---
+% ---
+\subsection{Usuários do Sistema}
+
+{\color{red} Melhorar essa descrição, não somente os mecanicos, eletrecistas etc, todos os envolvidos na manutenção da empresa, pode ser ate pintores
+
+O sistema foi desenvolvido para uma empresa do setor Industrial, mais especificamente para o setor de manutenção, logo os principais usuários serão os mecânicos e o líder do setor da mecânica.}
+% ---
+
+% ---
+\section{Método PMBOK }
+% ---
+O PMBOK e um guia que reuni a soma dos conhecimento e boas práticas de gerencia em gerência de projetos, que pode ser utilizada em todas as áreas do conhecimento."A primeira versão do PMBOK foi criada em 1986 e a versão atual é de 2017. Ela foi gerado pelo PMI - Project Management Institute que é uma associação de profissionais de gerência de projetos e existe desde 1969."\cite{machado2001gerencia}.
+
+Segundo \cite{maciel2006metodo} o PMBOK padronizou para cada etapa do projeto diversos processos com o objetivo de produzir o resultado esperado de cada etapa, ou seja, os processos ocorrem em todas as etapas do projeto, e dependendo da etapa que estiver poderá haver maior incidência de processos. 
+
+{\color{red} OTIMOOOOOOOOO}
+
+% ---------
+\subsection{Fluxo de processos}
+
+ O Fluxo de processos PMBOK abrange 10 áreas de conhecimento, cinco grupo de processos e possui 49 processos na sua estrutura.\cite{borja2019aplicaccao}. Dentro dessas 10 áreas do conhecimento do fluxo de processos, foi utilizado neste projeto 8 deles que são: integração, escopo, cronograma, qualidade, recursos, comunicações, riscos, partes interiçadas. Que está ilustrado na imagem abaixo:
+ 
+ {\color{red} OTIMOOOOOOOOO}
+
+% ----
+\begin{figure}[H]
+	\caption{\label{fluxo_de_processos_PMBOK}Fluxo de processo da \textit{Smart Solution} utilizando o PMBOK}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.62]{Figuras/fluxo_de_processos_PMBOK}}\qquad
+		
+	}
+	
+	
+\end{figure}
+
+% ----
+\subsection{EAP-  Estrutura Analita de Projetos}
+% ----
+O EAP e uma estrutura de forma visualizar as atividades que compõem o projeto, permitindo visualizar todo o escopo do projeto. Onde no topo fica o projeto, na segunda camada fica as etapas que no EAP e chamada de entregáveis, e para cada entregável possui as subcamadas que são as tarefas necessárias para finalizar cada uma das etapas do desenvolvimento.{\color{red} colocar referência}
+
+ Na imagem a seguir, demostra o desenvolvimento do EAP do Projeto \textit{Smart Solution}.
+
+\begin{figure}[H]
+	\caption{\label{EAP_Smart_Solution4}EAP da \textit{Smart Solution}}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.47, angle=90]{Figuras/EAP_Smart_Solution4}}\qquad
+		
+	}
+	
+	
+\end{figure}
+% -----
+
+\section{Regras de Negocio}
+% ---
+
+Pode se definir regra de negócio como sendo uma norma, ou um uso comum que determina a forma de realização de uma transação que envolve uma determinada organização.\cite{alvarenga2007abordagem}
+{\color{yellow} pode colocar mais uma referencia também na definição}.
+
+{\color{red} Paragrafo bem confuso, não entendi
+Sempre que uma ordem de serviço for gerada no SAP para a manutenção, esta será integrada e armazenada no sistema próprio de ordem de serviços do setor da manutenção, cada \textit{OS} gerada deverá ter um tipo de manutenção a ser realizado, esta pode ser preditiva, preventiva, rotas ou listas, toda \textit{OS} que for gerada pelo sistema SAP deverá ter um responsável atribuído no sistema, apenas este e o administrador geral do sistema terão acesso total a ordem de serviço.
+Na tela \textit{“Minhas OS”}, os manutentores teram acesso as ordens que foram delegadas aos mesmos com essa ele poderá acessar mais detalhes de os, tanto para obter mais informações do serviço a ser realizado, como também ter a capacidade de realizar modificações na ordem, podendo lançar as horas trabalhadas, e organizar as operações a serem realizadas.
+
+}
+
+{\color{blue} Paragrafo bem confuso, muito extenso
+	 
+Quando um manutentor necessitar solicitar uma peça para o almoxarifado, este deve acessar a tela de solicitação de peças e realizar a solicitação, está será enviada para o almoxarifado.
+Quando um manutentor decidir iniciar uma ordem de serviço, ele deverá na tela “Minhas Os” acessar a aba abertas, então escolher a ordem que deseja iniciar. Se o manutentor decidir pausar a ordem, ele deverá ir até a aba em andamento e escolher a ordem que deseja pausar.
+Se o manutentor terminar o serviço a ser realizado, ele deverá ir até a tela de verificação que pode ser acessada através da tela de “detalhe de ordem de serviço”, e nessa tela ele irá realizar a verificação da ordem de serviço, para a verificação ser realizada será necessária a verificação do serviço por do solicitante e do manutentor que se responsabilizou estas podem ser realizadas na tela de verificação do sistema Mobile, o manutentor também deverá preencher informações sobre o fim da OS, como solução realizada, e informar se o serviço foi finalizado, após isso a ordem deve ser analisada pelo administrador do sistema, no sistema web, ele irá decidir se a ordem deve ser encerrada ou reaberta, para ser refeita.
+O Administrador do sistema poderá através da tela de detalhe da ordem de serviço, delegar mais responsáveis em uma OS.
+O Administrador do sistema terá a possibilidade de acessar a tela de relatórios, nela será possível analisar o desempenho do setor de manutenção.
+O administrador poderá através do sistema web acessar uma tela de notificações.
+O Administrador poderá acessar e cadastrar novos centro de custo, causa de defeito,
+sintoma de defeito, tipo de máquina, componente, equipamento.
+
+}
+
+{\color{green} verificar os verbos e tentar melhorar o entendimento do que estão querendo passar para o leitor.
+	
+	
+O administrador poderá acessar a tela de histórico de OS, nela será possível verificar modificações nos status da os.
+
+Tanto o Manutentor quanto o administrador poderão acessar a tela de “Consulta de ordens”, nela será possível realizar filtros para encontrar ordens de serviço especificas.
+
+O manutentor poderá cadastrar manualmente OS, de três tipos corretiva, preventiva, rotas e listas.
+
+Sempre que um mecânico iniciar uma ordem de serviço será verificado os EPIs que o mesmo está utilizando, o manutentor deverá informar quais EPIs o mesmo está utilizando.
+Se o manutentor pausar uma ordem, quando ele voltar, terá de preencher o Checklist de EPIs novamente informando quais EPIs ele está utilizando no momento.
+
+O administrador poderá cadastrar novas parametrizações de segurança.
+Os manutentores terão acesso aos detalhes de todas as ordens de serviço, de forma que os mesmos possam visualizar as informações pertinentes as ordens de serviço, porém sem poder realizar modificações ou alterações nas ordens de serviço que não estejam delegas para si próprio.
+
+O administrador terá a capacidade de cadastrar tipos de operações predefinidas pela empresa, a mesmas serão utilizadas nas ordens de serviço pelos manutentores para facilitar o esboço do trabalho a ser realizado. 
+
+
+}
+
+
+\begin{figure}[H]
+	\caption{\label{regraSimples1}Regras de Negócio Simplificada Parte 1 Da \textit{Smart Solution}}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.82]{Figuras/regraSimples1}}\qquad
+		
+	}
+	
+	
+\end{figure}
+\begin{figure}[H]
+	\caption{\label{regraSimples2}Regras de Negócio Simplificada Parte 2 Da \textit{Smart Solution}}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.82]{Figuras/regraSimples2}}\qquad
+		
+	}
+	
+	
+\end{figure}
+\begin{figure}[H]
+	\caption{\label{regraSimples3}Regras de Negócio Simplificada Parte 3 Da \textit{Smart Solution}}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.82]{Figuras/regraSimples3}}\qquad
+		
+	}
+	
+	
+\end{figure}
+
+% ---
+
+
+
+\newpage
+\section{Riscos do Projeto}
+% ---
+O risco em um projeto de software é uma medida da probabilidade e da perda relacionadas à ocorrência de um evento negativo que afete o próprio projeto, seu processo ou o seu produto. Em outras palavras, qualquer coisa que possa acontecer e ameaçar o bom andamento do projeto é um risco. O risco do projeto relaciona-se com
+aspectos operacionais, organizacionais e contratuais. Este tipo de risco é uma responsabilidade do Gerente do Projeto, nele estando incluídos limitações de recursos, interfaces externas, relacionamentos com fornecedores e restrições
+contratuais.\cite{aguiar2011gerenciando}
+
+
+\begin{figure}[H]
+	\caption{\label{Tabelas_riscos}Tabela de riscos do projeto \textit{Smart Solution}}
+		\centering
+		\mbox{%
+			{
+		\includegraphics[scale=0.91]{Figuras/Tabelas_riscos}}\qquad
+	
+		}
+
+
+\end{figure}
+
+{\color{red}Descrever a tabela de riscos, os pontos mais críticos}
+
+% ----
+\section{Diagrama de Causa e Efeito}
+% -----
+
+{\color{red} Utilizar referencia
+	
+O diagrama de causa e efeito ou espinha de peixe, e utilizado para estruturar causas para um determinado efeito e encontra as áreas onde podem ser introduzido melhorias, mais também pode ser utilizado controlar o processo e garantir qualidade no produto final, assim como relacionar um defeito com as suas causas.} Neste projeto foi utilizado esse diagrama para localizar os possíveis problemas que podem afetar o processo de desenvolvimento e conclusão do desenvolvimento do software. Na figura abaixo mostra o diagrama de causa e efeito da \textit{Smart Solution}.
+
+\begin{figure}[H]
+	\caption{\label{smart_solution_espinha_de_peixe}Diagrama de Causa e Efeito da \textit{Smart Solution}}
+	\centering
+	\mbox{%
+		{
+			\includegraphics[scale=0.70, angle=90]{Figuras/smart_solution_espinha_de_peixe}}\qquad
+		
+	}
+	
+	
+\end{figure}
+
+{\color{red} Descrever brevemente o diagrama}
+
+% ---
