@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Smart Solution _v1_2020.aux
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7380)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Smart Solution _v1_2020.aux
 A level-1 auxiliary file: pretextual.aux
 A level-1 auxiliary file: cap1.aux
 A level-1 auxiliary file: cap2.aux
@@ -10,6 +12,15 @@ A level-1 auxiliary file: cap7.aux
 A level-1 auxiliary file: cap8.aux
 A level-1 auxiliary file: cap9.aux
 The style file: abntex2-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Database file #1: abntex2-options.bib
 Database file #2: refereces.bib
 Warning--entry type for "Gradus2019" isn't style-file defined
@@ -24,9 +35,54 @@ Warning--entry type for "Auvo2019" isn't style-file defined
 --line 335 of file refereces.bib
 Warning--string name "junho" is undefined
 --line 338 of file refereces.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
+You've used 14 entries,
+            6714 wiz_defined-function locations,
+            1262 strings with 11123 characters,
+and the built_in function-call counts, 9866 in all, are:
+= -- 905
+> -- 259
+< -- 93
++ -- 228
+- -- 83
+* -- 612
+:= -- 1387
+add.period$ -- 36
+call.type$ -- 15
+change.case$ -- 101
+chr.to.int$ -- 23
+cite$ -- 11
+duplicate$ -- 595
+empty$ -- 690
+format.name$ -- 375
+if$ -- 2194
+int.to.chr$ -- 2
+int.to.str$ -- 2
+missing$ -- 211
+newline$ -- 62
+num.names$ -- 55
+pop$ -- 279
+preamble$ -- 1
+purify$ -- 47
+quote$ -- 0
+skip$ -- 825
+stack$ -- 1
+substring$ -- 339
+swap$ -- 196
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 71
+width$ -- 0
+write$ -- 163
 (There were 6 warnings)

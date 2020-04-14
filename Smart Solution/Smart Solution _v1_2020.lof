@@ -2,80 +2,80 @@
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Fluxo de processo da \textit {Smart Solution} utilizando o PMBOK\relax }}{11}{figure.caption.3}% 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces EAP da \textit {Smart Solution}\relax }}{12}{figure.caption.4}% 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Regras de Negócio Simplificada Parte 1 Da \textit {Smart Solution}\relax }}{14}{figure.caption.5}% 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Regras de Negócio Simplificada Parte 2 Da \textit {Smart Solution}\relax }}{15}{figure.caption.6}% 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Regras de Negócio Simplificada Parte 3 Da \textit {Smart Solution}\relax }}{15}{figure.caption.7}% 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Tabela de riscos do projeto \textit {Smart Solution}\relax }}{16}{figure.caption.8}% 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagrama de Causa e Efeito da \textit {Smart Solution}\relax }}{18}{figure.caption.9}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Fluxo de processo da \textit {Smart Solution} utilizando o PMBOK\relax }}{11}{figure.caption.5}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces EAP da \textit {Smart Solution}\relax }}{12}{figure.caption.6}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Regras de Negócio Simplificada Parte 1 Da \textit {Smart Solution}\relax }}{14}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Regras de Negócio Simplificada Parte 2 Da \textit {Smart Solution}\relax }}{15}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Regras de Negócio Simplificada Parte 3 Da \textit {Smart Solution}\relax }}{15}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Tabela de riscos do projeto \textit {Smart Solution}\relax }}{16}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagrama de Causa e Efeito da \textit {Smart Solution}\relax }}{18}{figure.caption.11}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Requisitos Funcionais Parte 1 Da \textit {Smart Solution}\relax }}{19}{figure.caption.10}% 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Requisitos Funcionais Parte 2 Da \textit {Smart Solution}\relax }}{20}{figure.caption.11}% 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Requisitos Funcionais Parte 3 Da \textit {Smart Solution}\relax }}{20}{figure.caption.12}% 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Cronograma para o desenvolvimento em março e Abril do projeto \textit {Smart Solution}\relax }}{24}{figure.caption.14}% 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Cronograma para o desenvolvimento em maio e junho do projeto \textit {Smart Solution}\relax }}{25}{figure.caption.15}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Requisitos Funcionais Parte 1 Da \textit {Smart Solution}\relax }}{19}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Requisitos Funcionais Parte 2 Da \textit {Smart Solution}\relax }}{20}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Requisitos Funcionais Parte 3 Da \textit {Smart Solution}\relax }}{20}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Cronograma para o desenvolvimento em março e Abril do projeto \textit {Smart Solution}\relax }}{24}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Cronograma para o desenvolvimento em maio e junho do projeto \textit {Smart Solution}\relax }}{25}{figure.caption.17}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Fluxograma da\textit { Smart Solution}\relax }}{28}{figure.caption.16}% 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagrama de Caso de Uso Desenvolvido para o projeto Smart Solution\relax }}{31}{figure.caption.17}% 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Diagrama de classe para \textit {Smart Solution}\relax }}{33}{figure.caption.18}% 
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Diagrama de Atividades no desenvolvimento do software \textit {Smart Solution}\relax }}{35}{figure.caption.19}% 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Fluxograma da\textit { Smart Solution}\relax }}{28}{figure.caption.18}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagrama de Caso de Uso Desenvolvido para o projeto Smart Solution\relax }}{31}{figure.caption.19}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Diagrama de classe para \textit {Smart Solution}\relax }}{33}{figure.caption.20}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Diagrama de Atividades no desenvolvimento do software \textit {Smart Solution}\relax }}{35}{figure.caption.21}%
 \addvspace {10pt}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Login}}}{38}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Menu parte superior da tela}}}{39}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Menu parte inferior da tela}}}{40}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela defeito e sintoma}}}{41}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de opções de Detalhes}}}{42}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de defeito e causa}}}{43}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de consulta detalhada}}}{44}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela consultar OS}}}{45}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Solicitação de Peça}}}{46}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Verificação}}}{47}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Verificação Assinatura}}}{48}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Apontado}}}{49}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela EPI}}}{50}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela justificação não uso EPI}}}{51}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de login}}}{53}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de dashboard}}}{53}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de Cadastramento}}}{54}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro OS}}}{55}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro equipamento}}}{56}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de cadastros de componentes}}}{57}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro EPI}}}{58}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro causas e sintomas}}}{59}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro de operações}}}{60}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela para solicitar peças}}}{61}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela consulta OS}}}{62}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela detalhamento OS}}}{63}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de verificação}}}{64}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de Apontamento}}}{65}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de Assinatura}}}{66}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios 1}}}{67}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios 2}}}{68}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios mensais 1}}}{69}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios mensais 2}}}{70}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios mensais 3}}}{71}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios equipamentos}}}{72}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de assinatura}}}{73}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de Checklist EPI}}}{74}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela justificação não uso EPI}}}{75}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela com assinatura dos responsáveis}}}{76}{subfigure.6.1.1}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela para cadastrar usuário}}}{77}{subfigure.6.1.1}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Login}}}{38}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Menu parte superior da tela}}}{39}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Menu parte inferior da tela}}}{40}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela defeito e sintoma}}}{41}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de opções de Detalhes}}}{42}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de defeito e causa}}}{43}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de consulta detalhada}}}{44}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela consultar OS}}}{45}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Solicitação de Peça}}}{46}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Verificação}}}{47}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Verificação Assinatura}}}{48}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela Apontado}}}{49}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela EPI}}}{50}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela justificação não uso EPI}}}{51}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de login}}}{53}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de dashboard}}}{53}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de Cadastramento}}}{54}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro OS}}}{55}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro equipamento}}}{56}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de cadastros de componentes}}}{57}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro EPI}}}{58}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro causas e sintomas}}}{59}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela cadastro de operações}}}{60}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela para solicitar peças}}}{61}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela consulta OS}}}{62}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela detalhamento OS}}}{63}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de verificação}}}{64}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de Apontamento}}}{65}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de Assinatura}}}{66}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios 1}}}{67}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios 2}}}{68}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios mensais 1}}}{69}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios mensais 2}}}{70}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios mensais 3}}}{71}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de relatórios equipamentos}}}{72}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de assinatura}}}{73}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela de Checklist EPI}}}{74}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela justificação não uso EPI}}}{75}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela com assinatura dos responsáveis}}}{76}{subfigure.6.1.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tela para cadastrar usuário}}}{77}{subfigure.6.1.1}%
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Tela de login\relax }}{84}{figure.caption.64}% 
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Tela de opções de cadastros\relax }}{85}{figure.caption.65}% 
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Próprio autor\relax }}{86}{figure.caption.66}% 
-\contentsline {figure}{\numberline {8.4}{\ignorespaces Tela de cadastro de OS\relax }}{87}{figure.caption.67}% 
-\contentsline {figure}{\numberline {8.5}{\ignorespaces Tela de cadastro de OS\relax }}{88}{figure.caption.68}% 
-\contentsline {figure}{\numberline {8.6}{\ignorespaces Tela de cadastrar equipamentos\relax }}{89}{figure.caption.69}% 
-\contentsline {figure}{\numberline {8.7}{\ignorespaces Tela de cadastrar componentes\relax }}{90}{figure.caption.70}% 
-\contentsline {figure}{\numberline {8.8}{\ignorespaces Tela de cadastrar EPI\relax }}{91}{figure.caption.71}% 
-\contentsline {figure}{\numberline {8.9}{\ignorespaces Tela de cadastrar causas\relax }}{92}{figure.caption.72}% 
-\contentsline {figure}{\numberline {8.10}{\ignorespaces Tela de cadastrar sintomas\relax }}{93}{figure.caption.73}% 
-\contentsline {figure}{\numberline {8.11}{\ignorespaces Tela de cadastrar localização do equipamento\relax }}{94}{figure.caption.74}% 
-\contentsline {figure}{\numberline {8.12}{\ignorespaces Tela de cadastrar centro de trabalho\relax }}{95}{figure.caption.75}% 
-\contentsline {figure}{\numberline {8.13}{\ignorespaces Tela de cadastrar tipo de ordem serviço\relax }}{96}{figure.caption.76}% 
-\contentsline {figure}{\numberline {8.14}{\ignorespaces Tela de cadastrar e listar usuários\relax }}{98}{figure.caption.77}% 
-\contentsline {figure}{\numberline {8.15}{\ignorespaces Tela de cadastrar e listar usuários\relax }}{99}{figure.caption.78}% 
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Tela de login\relax }}{84}{figure.caption.66}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Tela de opções de cadastros\relax }}{85}{figure.caption.67}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Próprio autor\relax }}{86}{figure.caption.68}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Tela de cadastro de OS\relax }}{87}{figure.caption.69}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Tela de cadastro de OS\relax }}{88}{figure.caption.70}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Tela de cadastrar equipamentos\relax }}{89}{figure.caption.71}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Tela de cadastrar componentes\relax }}{90}{figure.caption.72}%
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Tela de cadastrar EPI\relax }}{91}{figure.caption.73}%
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Tela de cadastrar causas\relax }}{92}{figure.caption.74}%
+\contentsline {figure}{\numberline {8.10}{\ignorespaces Tela de cadastrar sintomas\relax }}{93}{figure.caption.75}%
+\contentsline {figure}{\numberline {8.11}{\ignorespaces Tela de cadastrar localização do equipamento\relax }}{94}{figure.caption.76}%
+\contentsline {figure}{\numberline {8.12}{\ignorespaces Tela de cadastrar centro de trabalho\relax }}{95}{figure.caption.77}%
+\contentsline {figure}{\numberline {8.13}{\ignorespaces Tela de cadastrar tipo de ordem serviço\relax }}{96}{figure.caption.78}%
+\contentsline {figure}{\numberline {8.14}{\ignorespaces Tela de cadastrar e listar usuários\relax }}{98}{figure.caption.79}%
+\contentsline {figure}{\numberline {8.15}{\ignorespaces Tela de cadastrar e listar usuários\relax }}{99}{figure.caption.80}%
 \addvspace {10pt}
